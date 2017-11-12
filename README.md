@@ -1,2 +1,6 @@
 # Hello-World
-Some other repository 
+ 
+Hi there
+
+I like sports (my hobby) 
+
